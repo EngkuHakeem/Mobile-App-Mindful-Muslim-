@@ -4,7 +4,7 @@ Mindful Muslim is a mobile application designed to help Muslims maintain consist
 
 ## Project Overview
 
-Many students struggle to consistently perform the five daily prayers due to busy schedules and distractions. Mindful Muslim addresses this issue by providing a centralized platform to log prayers, track habits, and encourage spiritual discipline. :contentReference[oaicite:0]{index=0}
+Many students struggle to consistently perform the five daily prayers due to busy schedules and distractions. Mindful Muslim addresses this issue by providing a centralized platform to log prayers, track habits, and encourage spiritual discipline. 
 
 The application promotes accountability, motivation, and community engagement to help users strengthen their connection with their faith.
 
@@ -19,7 +19,7 @@ The application promotes accountability, motivation, and community engagement to
 
 ## Target Users
 
-The primary users of this application are **IIUM students**, including both undergraduate and postgraduate students who want to track their salah performance and improve their spiritual discipline. :contentReference[oaicite:1]{index=1}
+The primary users of this application are **IIUM students**, including both undergraduate and postgraduate students who want to track their salah performance and improve their spiritual discipline. 
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ The primary users of this application are **IIUM students**, including both unde
 - Figma
 - Lucidchart
 
-Firebase is used to support real-time data synchronization, authentication, and analytics for the application. :contentReference[oaicite:2]{index=2}
+Firebase is used to support real-time data synchronization, authentication, and analytics for the application. 
 
 ## System Features
 
@@ -77,8 +77,7 @@ These entities support prayer tracking, analytics, and social interaction within
 
 ## Results
 
-The Mindful Muslim application successfully provides a structured system for tracking daily prayers and spiritual habits. Initial testing with IIUM students showed that the app helps users monitor their prayer consistency and encourages discipline in worship. :contentReference[oaicite:3]{index=3}
-
+The Mindful Muslim application successfully provides a structured system for tracking daily prayers and spiritual habits. Initial testing with IIUM students showed that the app helps users monitor their prayer consistency and encourages discipline in worship. 
 ## Limitations
 
 - Currently available only on Android
